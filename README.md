@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Mohammad-ghasempour
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning ReactJs , Sass/Scss , 
-- 💞️ I’m looking to collaborate on front end technologies
-- 📫 Feel free to send message...
+- 👀 I’m interested in programming and developing stylish web pages.
 
 <!---
 Mohammad-ghasempour/Mohammad-ghasempour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
